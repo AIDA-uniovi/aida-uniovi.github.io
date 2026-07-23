@@ -1,0 +1,1 @@
+If you can read this file, the ChatGPT Codex Connector is correctly installed for the AIDA-uniovi organization.
